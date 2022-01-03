@@ -1,7 +1,7 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "logo": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/LEGEND-LX/LEGENDBOT-V9/",
+  "website": "https://github.com/LEGEND-LX/LEGENDBOT-V9/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -65,22 +65,22 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -95,7 +95,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/c018738c34cd048d9b6d8.jpg",
       "required": false
     },
     "PM_MSG": {
